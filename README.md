@@ -1,0 +1,2 @@
+# CUSTOMER-SEGMENTATION-DASHBOARD
+In my PowerBI dashboard, I have segmented customers by martial status, gender, and occupation to analyze buying  patterns. I have checked total sales, total customer and total occupation. I have even created a table to understand about the data to easily find out insights from this dataset.
